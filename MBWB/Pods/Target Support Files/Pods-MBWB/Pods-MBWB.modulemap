@@ -1,0 +1,6 @@
+framework module Pods_MBWB {
+  umbrella header "Pods-MBWB-umbrella.h"
+
+  export *
+  module * { export * }
+}
